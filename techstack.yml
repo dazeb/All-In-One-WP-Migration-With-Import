@@ -1,0 +1,44 @@
+repo_name: dazeb/All-In-One-WP-Migration-With-Import
+report_id: d19a47cf1a7964a2661a58ff8e967047
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-11T19:09:28+00:00'
+requested_by: d0n601
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/dazeb/All-In-One-WP-Migration-With-Import/blob/master/lib/view/assets/javascript/import.min.js
+  detection_source: lib/view/assets/javascript/import.min.js
+  last_updated_by: Ryan Kozak
+  last_updated_on: 2018-10-25 21:36:43.000000000 Z
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/dazeb/All-In-One-WP-Migration-With-Import
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dazeb/All-In-One-WP-Migration-With-Import
+  detection_source: Repo Metadata
